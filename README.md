@@ -10,7 +10,7 @@ DISER is a game-inspired bot that allows users to vote for Discord servers and c
 - Monthly rewards for top-voted servers
 
 ## Privacy & Data
-This bot collects Discord IDs and comment data for functionality. For more, see [Privacy Policy](privacy.md).
+This bot collects Discord IDs and comment data for functionality. For more, see [Privacy Policy](privacy_and_terms.md).
 
 ## Support
 - [Support Server](https://discord.gg/z69YuStfMA)
